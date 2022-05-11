@@ -1,20 +1,14 @@
-# Dracula for [Foobar](https://foobar.com)
+# Dracula for [LSDeluxe](https://github.com/Peltoche/lsd)
 
-> A dark theme for [Foobar](https://foobar.com).
-
-![Screenshot](./screenshot.png)
+> A dark theme for [LSDeluxe](https://github.com/Peltoche/lsd).
 
 ## Install
 
-All instructions can be found at [draculatheme.com/foobar](https://draculatheme.com/foobar).
+All instructions can be found at [draculatheme.com/lsdeluxe](https://draculatheme.com/lsdeluxe).
 
 ## Team
 
-This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/foobar/graphs/contributors).
-
-| [![Zeno Rocha](https://github.com/zenorocha.png?size=100)](https://github.com/zenorocha) |
-| ---------------------------------------------------------------------------------------- |
-| [Zeno Rocha](https://github.com/zenorocha)                                               |
+This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/lsdeluxe/graphs/contributors).
 
 ## Community
 
